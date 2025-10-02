@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "_id",
+    "category",
+    "courseId",
+    "createdAt",
+    "description",
+    "duration",
+    "instructorId",
+    "isPublished",
+    "level",
+    "price",
+    "tags",
+    "title",
+    "updatedAt"
+  ],
+  "properties": {
+    "_id": {
+      "$ref": "#/$defs/ObjectId"
+    },
+    "category": {
+      "type": "string"
+    },
+    "courseId": {
+      "type": "string"
+    },
+    "createdAt": {
+      "$ref": "#/$defs/Date"
+    },
+    "description": {
+      "type": "string"
+    },
+    "duration": {
+      "type": "integer"
+    },
+    "instructorId": {
+      "type": "string"
+    },
+    "isPublished": {
+      "type": "boolean"
+    },
+    "level": {
+      "type": "string"
+    },
+    "price": {
+      "type": "integer"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "title": {
+      "type": "string"
+    },
+    "updatedAt": {
+      "$ref": "#/$defs/Date"
+    }
+  },
+  "$defs": {
+    "ObjectId": {
+      "type": "object",
+      "properties": {
+        "$oid": {
+          "type": "string",
+          "pattern": "^[0-9a-fA-F]{24}$"
+        }
+      },
+      "required": [
+        "$oid"
+      ],
+      "additionalProperties": false
+    },
+    "Date": {
+      "type": "object",
+      "properties": {
+        "$date": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "$date"
+      ],
+      "additionalProperties": false
+    }
+  }
+}

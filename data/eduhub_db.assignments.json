@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "68de0b1126c5d84f47cbc09b"
+  },
+  "assignmentId": "A001",
+  "courseId": "C001",
+  "title": "Python Basics Quiz",
+  "dueDate": {
+    "$date": "2025-10-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b1126c5d84f47cbc09c"
+  },
+  "assignmentId": "A002",
+  "courseId": "C002",
+  "title": "Excel Project",
+  "dueDate": {
+    "$date": "2025-10-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b1126c5d84f47cbc09d"
+  },
+  "assignmentId": "A003",
+  "courseId": "C003",
+  "title": "ML Research Task",
+  "dueDate": {
+    "$date": "2025-10-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b1126c5d84f47cbc09e"
+  },
+  "assignmentId": "A004",
+  "courseId": "C004",
+  "title": "Web Page Design",
+  "dueDate": {
+    "$date": "2025-10-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b1126c5d84f47cbc09f"
+  },
+  "assignmentId": "A005",
+  "courseId": "C005",
+  "title": "Advanced Python Project",
+  "dueDate": {
+    "$date": "2025-10-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b1126c5d84f47cbc0a0"
+  },
+  "assignmentId": "A006",
+  "courseId": "C006",
+  "title": "SQL Queries Practice",
+  "dueDate": {
+    "$date": "2025-10-23T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b1126c5d84f47cbc0a1"
+  },
+  "assignmentId": "A007",
+  "courseId": "C007",
+  "title": "Power BI Dashboard",
+  "dueDate": {
+    "$date": "2025-10-27T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b1126c5d84f47cbc0a2"
+  },
+  "assignmentId": "A008",
+  "courseId": "C008",
+  "title": "Cloud Research Paper",
+  "dueDate": {
+    "$date": "2025-10-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b1126c5d84f47cbc0a3"
+  },
+  "assignmentId": "A009",
+  "courseId": "C001",
+  "title": "Loops Exercise",
+  "dueDate": {
+    "$date": "2025-10-24T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b1126c5d84f47cbc0a4"
+  },
+  "assignmentId": "A010",
+  "courseId": "C002",
+  "title": "Data Analysis Report",
+  "dueDate": {
+    "$date": "2025-10-26T00:00:00.000Z"
+  }
+}]

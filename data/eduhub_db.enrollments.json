@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc073"
+  },
+  "enrollmentId": "E001",
+  "userId": "U003",
+  "courseId": "C001",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc074"
+  },
+  "enrollmentId": "E002",
+  "userId": "U004",
+  "courseId": "C002",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc075"
+  },
+  "enrollmentId": "E003",
+  "userId": "U005",
+  "courseId": "C001",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc076"
+  },
+  "enrollmentId": "E004",
+  "userId": "U006",
+  "courseId": "C003",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc077"
+  },
+  "enrollmentId": "E005",
+  "userId": "U007",
+  "courseId": "C004",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc078"
+  },
+  "enrollmentId": "E006",
+  "userId": "U008",
+  "courseId": "C005",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc079"
+  },
+  "enrollmentId": "E007",
+  "userId": "U009",
+  "courseId": "C001",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc07a"
+  },
+  "enrollmentId": "E008",
+  "userId": "U010",
+  "courseId": "C002",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc07b"
+  },
+  "enrollmentId": "E009",
+  "userId": "U011",
+  "courseId": "C006",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc07c"
+  },
+  "enrollmentId": "E010",
+  "userId": "U012",
+  "courseId": "C007",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc07d"
+  },
+  "enrollmentId": "E011",
+  "userId": "U013",
+  "courseId": "C008",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc07e"
+  },
+  "enrollmentId": "E012",
+  "userId": "U014",
+  "courseId": "C003",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc07f"
+  },
+  "enrollmentId": "E013",
+  "userId": "U015",
+  "courseId": "C005",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc080"
+  },
+  "enrollmentId": "E014",
+  "userId": "U016",
+  "courseId": "C002",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de0b0126c5d84f47cbc081"
+  },
+  "enrollmentId": "E015",
+  "userId": "U017",
+  "courseId": "C006",
+  "enrolledAt": {
+    "$date": "2025-10-02T06:17:53.503Z"
+  }
+}]

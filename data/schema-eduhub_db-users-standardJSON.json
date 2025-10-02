@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "_id",
+    "role",
+    "userId"
+  ],
+  "properties": {
+    "_id": {
+      "$ref": "#/$defs/ObjectId"
+    },
+    "dateJoined": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/Date"
+        },
+        {
+          "type": "string"
+        }
+      ]
+    },
+    "email": {
+      "type": "string"
+    },
+    "firstName": {
+      "type": "string"
+    },
+    "isActive": {
+      "type": "boolean"
+    },
+    "lastName": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "profile": {
+      "type": "object",
+      "required": [
+        "avatar",
+        "bio",
+        "skills"
+      ],
+      "properties": {
+        "avatar": {
+          "type": "string"
+        },
+        "bio": {
+          "type": "string"
+        },
+        "skills": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "role": {
+      "type": "string"
+    },
+    "userId": {
+      "type": "string"
+    }
+  },
+  "$defs": {
+    "ObjectId": {
+      "type": "object",
+      "properties": {
+        "$oid": {
+          "type": "string",
+          "pattern": "^[0-9a-fA-F]{24}$"
+        }
+      },
+      "required": [
+        "$oid"
+      ],
+      "additionalProperties": false
+    },
+    "Date": {
+      "type": "object",
+      "properties": {
+        "$date": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "$date"
+      ],
+      "additionalProperties": false
+    }
+  }
+}

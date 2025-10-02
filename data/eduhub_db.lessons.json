@@ -1,0 +1,225 @@
+[{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc082"
+  },
+  "lessonId": "L001",
+  "courseId": "C001",
+  "title": "Intro to Python",
+  "content": "Basics of Python"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc083"
+  },
+  "lessonId": "L002",
+  "courseId": "C001",
+  "title": "Variables",
+  "content": "Using variables"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc084"
+  },
+  "lessonId": "L003",
+  "courseId": "C001",
+  "title": "Data Types",
+  "content": "Understanding data types"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc085"
+  },
+  "lessonId": "L004",
+  "courseId": "C002",
+  "title": "Excel Basics",
+  "content": "Intro to Excel"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc086"
+  },
+  "lessonId": "L005",
+  "courseId": "C002",
+  "title": "Formulas",
+  "content": "Using Excel formulas"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc087"
+  },
+  "lessonId": "L006",
+  "courseId": "C002",
+  "title": "Charts",
+  "content": "Data visualization"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc088"
+  },
+  "lessonId": "L007",
+  "courseId": "C003",
+  "title": "What is ML?",
+  "content": "Basics of ML"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc089"
+  },
+  "lessonId": "L008",
+  "courseId": "C003",
+  "title": "Supervised Learning",
+  "content": "Regression and classification"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc08a"
+  },
+  "lessonId": "L009",
+  "courseId": "C004",
+  "title": "HTML Basics",
+  "content": "Structure of HTML"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc08b"
+  },
+  "lessonId": "L010",
+  "courseId": "C004",
+  "title": "CSS Styling",
+  "content": "Designing pages"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc08c"
+  },
+  "lessonId": "L011",
+  "courseId": "C004",
+  "title": "JS Introduction",
+  "content": "JavaScript basics"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc08d"
+  },
+  "lessonId": "L012",
+  "courseId": "C005",
+  "title": "Advanced Functions",
+  "content": "Decorators and generators"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc08e"
+  },
+  "lessonId": "L013",
+  "courseId": "C005",
+  "title": "Modules",
+  "content": "Python modules"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc08f"
+  },
+  "lessonId": "L014",
+  "courseId": "C006",
+  "title": "SQL Basics",
+  "content": "SELECT and WHERE"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc090"
+  },
+  "lessonId": "L015",
+  "courseId": "C006",
+  "title": "JOINs",
+  "content": "Combining tables"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc091"
+  },
+  "lessonId": "L016",
+  "courseId": "C007",
+  "title": "Power BI Intro",
+  "content": "Interface overview"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc092"
+  },
+  "lessonId": "L017",
+  "courseId": "C007",
+  "title": "Data Modeling",
+  "content": "Relationships"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc093"
+  },
+  "lessonId": "L018",
+  "courseId": "C007",
+  "title": "Building Dashboards",
+  "content": "Practical dashboard"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc094"
+  },
+  "lessonId": "L019",
+  "courseId": "C008",
+  "title": "Cloud Basics",
+  "content": "Intro to cloud"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc095"
+  },
+  "lessonId": "L020",
+  "courseId": "C008",
+  "title": "AWS Services",
+  "content": "Compute & storage"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc096"
+  },
+  "lessonId": "L021",
+  "courseId": "C001",
+  "title": "Loops",
+  "content": "For and while loops"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc097"
+  },
+  "lessonId": "L022",
+  "courseId": "C001",
+  "title": "Functions",
+  "content": "Defining functions"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc098"
+  },
+  "lessonId": "L023",
+  "courseId": "C002",
+  "title": "Pivot Tables",
+  "content": "Summarizing data"
+},
+{
+  "_id": {
+    "$oid": "68de0b0526c5d84f47cbc099"
+  },
+  "lessonId": "L024",
+  "courseId": "C006",
+  "title": "Subqueries",
+  "content": "Nested queries"
+},
+{
+  "_id": {
+    "$oid": "68de0bb226c5d84f47cbc0b4"
+  },
+  "lessonId": "L026",
+  "courseId": "C006",
+  "title": "Basic Measure In SQL Schema",
+  "content": "Content about creating and using basic measures in SQL Schema."
+}]

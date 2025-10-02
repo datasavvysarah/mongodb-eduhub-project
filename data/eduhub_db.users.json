@@ -1,0 +1,280 @@
+[{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc057"
+  },
+  "userId": "U001",
+  "name": "Sarah Iniobong",
+  "email": "ukosarahiniobong@gmail.com",
+  "role": "instructor"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc058"
+  },
+  "userId": "U002",
+  "name": "Mark Smith",
+  "email": "mark@example.com",
+  "role": "instructor"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc059"
+  },
+  "userId": "U003",
+  "name": "Alex Egbuchulam",
+  "email": "alex@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc05a"
+  },
+  "userId": "U004",
+  "name": "Jane Miller",
+  "email": "jane@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc05b"
+  },
+  "userId": "U005",
+  "name": "Elena Carter",
+  "email": "elena@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc05c"
+  },
+  "userId": "U006",
+  "name": "Tom Brooks",
+  "email": "tom@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc05d"
+  },
+  "userId": "U007",
+  "name": "Sarah Adams",
+  "email": "sarah@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc05e"
+  },
+  "userId": "U008",
+  "name": "David Lee",
+  "email": "david@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc05f"
+  },
+  "userId": "U009",
+  "name": "Liam Scott",
+  "email": "liam@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc060"
+  },
+  "userId": "U010",
+  "name": "Sophia Brown",
+  "email": "sophia@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc061"
+  },
+  "userId": "U011",
+  "name": "Noah Hall",
+  "email": "noah@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc062"
+  },
+  "userId": "U012",
+  "name": "Grace Clark",
+  "email": "grace@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc063"
+  },
+  "userId": "U013",
+  "name": "Lucas Turner",
+  "email": "lucas@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc064"
+  },
+  "userId": "U014",
+  "name": "Mia Perez",
+  "email": "mia@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc065"
+  },
+  "userId": "U015",
+  "name": "Ethan Ward",
+  "email": "ethan@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc066"
+  },
+  "userId": "U016",
+  "name": "Isabella Green",
+  "email": "isabella@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc067"
+  },
+  "userId": "U017",
+  "name": "Oliver King",
+  "email": "oliver@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc068"
+  },
+  "userId": "U018",
+  "name": "Ava Lewis",
+  "email": "ava@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc069"
+  },
+  "userId": "U019",
+  "name": "James Young",
+  "email": "james@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0aea26c5d84f47cbc06a"
+  },
+  "userId": "U020",
+  "name": "Emily Hill",
+  "email": "emily@example.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "68de0b5326c5d84f47cbc0b1"
+  },
+  "userId": "U021",
+  "email": "newstudent@example.com",
+  "firstName": "Gloria",
+  "lastName": "Uko",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-10-02T06:19:15.516Z"
+  },
+  "profile": {
+    "bio": "Excited to learn Data Science!",
+    "avatar": "https://example.com/avatar.jpg",
+    "skills": [
+      "Python",
+      "Data Analysis"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "68de1f3426c5d84f47cbc0b5"
+  },
+  "userId": "U100",
+  "email": "duplicate@example.com",
+  "firstName": "Alice",
+  "lastName": "Johnson",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-10-02T06:44:04.933Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68de1f3526c5d84f47cbc0b6"
+  },
+  "userId": "U100",
+  "email": "new_email@example.com",
+  "firstName": "Bob",
+  "lastName": "Smith",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-10-02T06:44:05.111Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68de1f5326c5d84f47cbc0b7"
+  },
+  "userId": "U100",
+  "email": "duplicate@example.com",
+  "firstName": "Alice",
+  "lastName": "Johnson",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-10-02T06:44:35.113Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68de1f5326c5d84f47cbc0b8"
+  },
+  "userId": "U100",
+  "email": "new_email@example.com",
+  "firstName": "Bob",
+  "lastName": "Smith",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-10-02T06:44:35.286Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68de1fcb26c5d84f47cbc0b9"
+  },
+  "userId": "U101",
+  "email": "invalidtype@example.com",
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "role": "student",
+  "dateJoined": "2024-05-01",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68de201726c5d84f47cbc0ba"
+  },
+  "userId": "U102",
+  "firstName": "Mark",
+  "lastName": "Taylor",
+  "role": "student",
+  "isActive": true
+}]

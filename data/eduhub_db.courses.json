@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "68de205c26c5d84f47cbc0bb"
+  },
+  "courseId": "C001",
+  "title": "Python for Beginners",
+  "description": "Learn Python from scratch.",
+  "instructorId": "U001",
+  "category": "Programming",
+  "level": "beginner",
+  "duration": 20,
+  "price": 50,
+  "tags": [
+    "python",
+    "coding"
+  ],
+  "createdAt": {
+    "$date": "2025-10-02T06:49:00.128Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T06:49:00.128Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68de205c26c5d84f47cbc0bc"
+  },
+  "courseId": "C002",
+  "title": "Data Analysis with Excel",
+  "description": "Master Excel for data analysis.",
+  "instructorId": "U002",
+  "category": "Data Analysis",
+  "level": "intermediate",
+  "duration": 15,
+  "price": 40,
+  "tags": [
+    "excel",
+    "data"
+  ],
+  "createdAt": {
+    "$date": "2025-10-02T06:49:00.128Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T06:49:00.128Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68de205c26c5d84f47cbc0bd"
+  },
+  "courseId": "C003",
+  "title": "Machine Learning Basics",
+  "description": "Introduction to ML concepts.",
+  "instructorId": "U001",
+  "category": "AI/ML",
+  "level": "beginner",
+  "duration": 30,
+  "price": 80,
+  "tags": [
+    "machine learning",
+    "ai"
+  ],
+  "createdAt": {
+    "$date": "2025-10-02T06:49:00.128Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T06:49:00.128Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "68de205c26c5d84f47cbc0be"
+  },
+  "courseId": "C004",
+  "title": "Web Development Fundamentals",
+  "description": "Learn HTML, CSS, and JS.",
+  "instructorId": "U002",
+  "category": "Web Development",
+  "level": "beginner",
+  "duration": 25,
+  "price": 60,
+  "tags": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "createdAt": {
+    "$date": "2025-10-02T06:49:00.128Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T06:49:00.128Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68de205c26c5d84f47cbc0bf"
+  },
+  "courseId": "C005",
+  "title": "Advanced Python",
+  "description": "Deep dive into Python.",
+  "instructorId": "U001",
+  "category": "Programming",
+  "level": "advanced",
+  "duration": 35,
+  "price": 100,
+  "tags": [
+    "python",
+    "advanced"
+  ],
+  "createdAt": {
+    "$date": "2025-10-02T06:49:00.128Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T06:49:00.128Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68de205c26c5d84f47cbc0c0"
+  },
+  "courseId": "C006",
+  "title": "SQL for Data Science",
+  "description": "Learn SQL queries and joins.",
+  "instructorId": "U002",
+  "category": "Database",
+  "level": "intermediate",
+  "duration": 18,
+  "price": 45,
+  "tags": [
+    "sql",
+    "database"
+  ],
+  "createdAt": {
+    "$date": "2025-10-02T06:49:00.129Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T06:49:00.129Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68de205c26c5d84f47cbc0c1"
+  },
+  "courseId": "C007",
+  "title": "Data Visualization with Power BI",
+  "description": "Create dashboards with Power BI.",
+  "instructorId": "U001",
+  "category": "Data Analysis",
+  "level": "intermediate",
+  "duration": 20,
+  "price": 70,
+  "tags": [
+    "power bi",
+    "dashboard"
+  ],
+  "createdAt": {
+    "$date": "2025-10-02T06:49:00.129Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T06:49:00.129Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68de205c26c5d84f47cbc0c2"
+  },
+  "courseId": "C008",
+  "title": "Cloud Computing Fundamentals",
+  "description": "Intro to cloud platforms.",
+  "instructorId": "U002",
+  "category": "Cloud",
+  "level": "beginner",
+  "duration": 22,
+  "price": 55,
+  "tags": [
+    "aws",
+    "cloud"
+  ],
+  "createdAt": {
+    "$date": "2025-10-02T06:49:00.129Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T06:49:00.129Z"
+  },
+  "isPublished": false
+}]

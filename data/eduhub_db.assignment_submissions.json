@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "68de0b2c26c5d84f47cbc0a5"
+  },
+  "submissionId": "S001",
+  "assignmentId": "A001",
+  "userId": "U003",
+  "submittedAt": {
+    "$date": "2025-10-02T06:18:36.745Z"
+  },
+  "grade": 70
+},
+{
+  "_id": {
+    "$oid": "68de0b2c26c5d84f47cbc0a6"
+  },
+  "submissionId": "S002",
+  "assignmentId": "A001",
+  "userId": "U004",
+  "submittedAt": {
+    "$date": "2025-10-02T06:18:36.745Z"
+  },
+  "grade": 70
+},
+{
+  "_id": {
+    "$oid": "68de0b2c26c5d84f47cbc0a7"
+  },
+  "submissionId": "S003",
+  "assignmentId": "A002",
+  "userId": "U005",
+  "submittedAt": {
+    "$date": "2025-10-02T06:18:36.745Z"
+  },
+  "grade": 88
+},
+{
+  "_id": {
+    "$oid": "68de0b2c26c5d84f47cbc0a8"
+  },
+  "submissionId": "S004",
+  "assignmentId": "A002",
+  "userId": "U006",
+  "submittedAt": {
+    "$date": "2025-10-02T06:18:36.745Z"
+  },
+  "grade": 75
+},
+{
+  "_id": {
+    "$oid": "68de0b2c26c5d84f47cbc0a9"
+  },
+  "submissionId": "S005",
+  "assignmentId": "A003",
+  "userId": "U007",
+  "submittedAt": {
+    "$date": "2025-10-02T06:18:36.745Z"
+  },
+  "grade": 80
+},
+{
+  "_id": {
+    "$oid": "68de0b2c26c5d84f47cbc0aa"
+  },
+  "submissionId": "S006",
+  "assignmentId": "A004",
+  "userId": "U008",
+  "submittedAt": {
+    "$date": "2025-10-02T06:18:36.745Z"
+  },
+  "grade": 95
+},
+{
+  "_id": {
+    "$oid": "68de0b2c26c5d84f47cbc0ab"
+  },
+  "submissionId": "S007",
+  "assignmentId": "A005",
+  "userId": "U009",
+  "submittedAt": {
+    "$date": "2025-10-02T06:18:36.745Z"
+  },
+  "grade": 89
+},
+{
+  "_id": {
+    "$oid": "68de0b2c26c5d84f47cbc0ac"
+  },
+  "submissionId": "S008",
+  "assignmentId": "A006",
+  "userId": "U010",
+  "submittedAt": {
+    "$date": "2025-10-02T06:18:36.745Z"
+  },
+  "grade": 91
+},
+{
+  "_id": {
+    "$oid": "68de0b2c26c5d84f47cbc0ad"
+  },
+  "submissionId": "S009",
+  "assignmentId": "A007",
+  "userId": "U011",
+  "submittedAt": {
+    "$date": "2025-10-02T06:18:36.745Z"
+  },
+  "grade": 93
+},
+{
+  "_id": {
+    "$oid": "68de0b2c26c5d84f47cbc0ae"
+  },
+  "submissionId": "S010",
+  "assignmentId": "A008",
+  "userId": "U012",
+  "submittedAt": {
+    "$date": "2025-10-02T06:18:36.745Z"
+  },
+  "grade": 85
+},
+{
+  "_id": {
+    "$oid": "68de0b2c26c5d84f47cbc0af"
+  },
+  "submissionId": "S011",
+  "assignmentId": "A009",
+  "userId": "U013",
+  "submittedAt": {
+    "$date": "2025-10-02T06:18:36.745Z"
+  },
+  "grade": 78
+},
+{
+  "_id": {
+    "$oid": "68de0b2c26c5d84f47cbc0b0"
+  },
+  "submissionId": "S012",
+  "assignmentId": "A010",
+  "userId": "U014",
+  "submittedAt": {
+    "$date": "2025-10-02T06:18:36.745Z"
+  },
+  "grade": 87
+}]
